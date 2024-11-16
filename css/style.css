@@ -1014,8 +1014,8 @@ table {
   column-gap: 3.125rem
 }
 .body-col__inner-picture {
-  aspect-ratio: 525/790;
-  max-width: 32.8125rem;
+  aspect-ratio: 505/770;
+  max-width: 31.5625rem;
   border: .625rem solid var(--bgFnItem)
 }
 .body-col__photo {
